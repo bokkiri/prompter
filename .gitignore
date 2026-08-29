@@ -1,0 +1,10 @@
+# audio (reference tracks — not for the repo)
+*.mp3
+*.MP3
+*.wav
+*.m4a
+*.ogg
+*.flac
+
+# exported setlists / local data
+setlist.json
